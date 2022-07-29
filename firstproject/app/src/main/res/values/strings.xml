@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firstproject</string>
+    <string name="etdoner" translatable="false">Et Döner</string>
+    <string name="açıklama" translatable="false">İlk olarak soğan, sarımsak ve yoğurdu rondoya alalım ve güzelce çekelim. Daha sonra yoğurma kabına kıyma, soğanlı sarımsaklı yoğurt karışımı, tuz, karabiber, kimyon ve kırmızı toz biberi de alarak en az 5 dakika yoğuralım. İyice özdeşleşen kıyma harcını streç film üzerine alarak fotoğraflardaki gibi sıkıca saralım ve dondurucuya kaldıralım.</string>
+    <string name="yemekfiyat" translatable="false">5,98₺</string>
+    <string name="siparis" translatable="false">Sipariş Ver</string>
+
+</resources>

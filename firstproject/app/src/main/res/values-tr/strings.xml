@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firstproject</string>
+    <string name="etdoner" translatable="false">Et Döner</string>
+    <string name="açıklama" translatable="false">First of all, let's bring onion, garlic and yogurt to rondo locally and beautifully. Let's take more ground pepper and knead for at least 5 minutes. Let's wrap the well-identified oxygen mortar in a planned way as in the plans and send it to the donor.</string>
+    <string name="yemekfiyat" translatable="false">$ 5,98</string>
+    <string name="siparis" translatable="false">Give Order</string>
+
+</resources>
